@@ -5,10 +5,9 @@ This mod currently only works with The Walking Dead: The Telltale Definitive Ser
 
 ## Installation
 
-### Version 3.1 and above
-
 ### Please make sure to use a clean save file when using this mod. This mod can and will break existing save files.
 
+### Version 3.1 and above
 
 1. Download the mod from https://github.com/droyti/LoadAnyLevel/releases.
 
