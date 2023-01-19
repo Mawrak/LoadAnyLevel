@@ -41,7 +41,7 @@ By defualt, the game will open as usual, simply skipping the title screen. A new
 
 If you would like to emulate the functionality of v1, open `LoadAnyLevel.ini`. It contains settings that allow this functionality to be emulated - for example, the following configuration would load directly into the end of 404.
 
-####Please make sure to use a clean save file when using this mod. This mod can and will break existing save files.
+#### Please make sure to use a clean save file when using this mod. This mod can and will break existing save files.
 
 ```
 [boot]
